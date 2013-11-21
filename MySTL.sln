@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MySTL", "MySTL\MySTL.vcproj", "{B4DA9F15-BAC7-4ACE-83F3-853A5CB225D0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TreeDrawing", "TreeDrawing\TreeDrawing.vcproj", "{4EC97BB1-9171-4BAA-8E46-7A803EB5CA65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4DA9F15-BAC7-4ACE-83F3-853A5CB225D0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B4DA9F15-BAC7-4ACE-83F3-853A5CB225D0}.Debug|Win32.Build.0 = Debug|Win32
+		{B4DA9F15-BAC7-4ACE-83F3-853A5CB225D0}.Release|Win32.ActiveCfg = Release|Win32
+		{B4DA9F15-BAC7-4ACE-83F3-853A5CB225D0}.Release|Win32.Build.0 = Release|Win32
+		{4EC97BB1-9171-4BAA-8E46-7A803EB5CA65}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4EC97BB1-9171-4BAA-8E46-7A803EB5CA65}.Debug|Win32.Build.0 = Debug|Win32
+		{4EC97BB1-9171-4BAA-8E46-7A803EB5CA65}.Release|Win32.ActiveCfg = Release|Win32
+		{4EC97BB1-9171-4BAA-8E46-7A803EB5CA65}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
